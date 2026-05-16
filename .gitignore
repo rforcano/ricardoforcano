@@ -1,0 +1,11 @@
+# Documentos Word del inventario — no son parte de la web
+*.docx
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.swp
