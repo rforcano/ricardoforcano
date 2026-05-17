@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /*.docx$
+
+Sitemap: https://ricardoforcano.es/sitemap.xml
